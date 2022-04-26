@@ -1,4 +1,8 @@
-# Órbita de un Asteroide
+---
+layout: post
+title: "Órbita de un Asteroide"
+categories: misc
+---
 
 Los asteroides, al igual que otros objetos del Sistema Solar, orbitan alrededor del Sol, algunos más cerca que otros. La forma que tiene la órbita de un asteroide es la de un elipse. Esta elipse se caracteriza por dos cantidades principales, llamadas **eje mayor** y **eje menor**. El eje mayor es la distancia **más grande** que hay entre dos puntos opuestos de la elipse. Por otra parte, el eje menor es la **menor distancia** que hay entre dos puntos opuestos de la elipse. Normalmente, se trabaja con la mitad de estas cantidades, es decir, es más usado el término **semieje mayor** para referirse a la mitad del eje mayor, y **semieje menor** para referirse a la mitad del eje menor. Estas cantidades se denotan por las letras *a* y *b* respectivamente.
 
