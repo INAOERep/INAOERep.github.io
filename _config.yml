@@ -1,7 +1,7 @@
 title: Base de datos INAOE
 description: Repositorio de asteroides 
 
-theme: jekyll-theme-minima
+theme: minima
 
 minima:
   date_format: "%b %-d, %Y"
