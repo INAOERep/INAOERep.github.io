@@ -1,7 +1,7 @@
-title: Jekyll child theme
-description: This is a child theme of minima, Jekyll's default theme
+title: Base de datos INAOE
+description: Repositorio de asteroides 
 
-theme: minima
+theme: jekyll-theme-minima
 
 minima:
   date_format: "%b %-d, %Y"
